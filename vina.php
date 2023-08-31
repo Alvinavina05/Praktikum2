@@ -1,6 +1,6 @@
 <?php
 //Menampilkan data diri
-echo "Nama: Alvina Sugiarti
+echo "Nama saya Alvina Sugiarti
       NIM: E41220499"
 //Tugas Penjumlahan Srderhana
 $c = 5;
